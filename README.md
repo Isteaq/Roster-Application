@@ -1,2 +1,2 @@
 # Roster-Application
-Update existing roster system to a new platform using C++. 
+Update existing University roster system to a new electronic platform using the C++ language. 
